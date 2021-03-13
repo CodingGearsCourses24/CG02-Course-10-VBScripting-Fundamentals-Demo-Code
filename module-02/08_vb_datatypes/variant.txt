@@ -1,0 +1,10 @@
+VBScript has only one data type called: 
+
+Variant
+
+
+Variant Sub-types:
+VBScript has only one data type called a Variant
+Empty, Null, Boolean, Byte, Integer, Currency
+Long, Single, Double, Date (Time), String
+Object, Error

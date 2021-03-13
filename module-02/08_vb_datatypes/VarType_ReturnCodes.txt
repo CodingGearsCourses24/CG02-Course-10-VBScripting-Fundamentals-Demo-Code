@@ -1,0 +1,24 @@
+VBScript has only one data type called a **Variant**
+
+The VarType function returns a value that indicates the subtype of a specified variable.
+
+The VarType function can return one of the following values:
+
+0 = vbEmpty - Indicates Empty (uninitialized)
+1 = vbNull - Indicates Null (no valid data)
+2 = vbInteger - Indicates an integer
+3 = vbLong - Indicates a long integer
+4 = vbSingle - Indicates a single-precision floating-point number
+5 = vbDouble - Indicates a double-precision floating-point number
+6 = vbCurrency - Indicates a currency
+7 = vbDate - Indicates a date
+8 = vbString - Indicates a string
+9 = vbObject - Indicates an automation object
+10 = vbError - Indicates an error
+11 = vbBoolean - Indicates a boolean
+12 = vbVariant - Indicates a variant (used only with arrays of Variants)
+13 = vbDataObject - Indicates a data-access object
+17 = vbByte - Indicates a byte
+8192 = vbArray - Indicates an array
+
+Source: Microsoft Documentation
