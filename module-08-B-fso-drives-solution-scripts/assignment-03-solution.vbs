@@ -1,4 +1,10 @@
-' Assignment Solution
+' **********************************************************************
+' http://www.CodingGears.com
+' FSO
+' Assignment 3 - Solution
+' **********************************************************************
+' Check if the drive has the requried free space
+
 option explicit
 Const  SITE_TITLE = ">> CodingGears.io"
 

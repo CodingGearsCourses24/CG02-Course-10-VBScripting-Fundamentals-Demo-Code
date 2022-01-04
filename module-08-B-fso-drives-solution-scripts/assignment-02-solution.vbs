@@ -1,8 +1,11 @@
-' Assignment:
-' Prompt the user for two drives, and determine the drive 
-' with the more free space.
+' **********************************************************************
+' http://www.CodingGears.com
+' FSO
+' Assignment 2 - Solution
+' **********************************************************************
+' Prompt the user for two drives, 
+' and determine the drive with the more free space.
 
-' Assignment Solution
 option explicit
 Const  SITE_TITLE = ">> CodingGears.io"
 
