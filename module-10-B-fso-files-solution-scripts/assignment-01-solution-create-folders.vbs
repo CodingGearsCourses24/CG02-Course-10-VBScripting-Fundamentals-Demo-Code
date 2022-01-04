@@ -1,4 +1,8 @@
-' Folder Structure
+' **********************************************************************
+' http://www.CodingGears.com
+' FSO - Read folder list from a file & create them
+' Assignment 2 - Solution
+' **********************************************************************
 
 ' Constants
 Const OpenFileForReading = 1 

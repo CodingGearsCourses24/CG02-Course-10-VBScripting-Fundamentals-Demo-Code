@@ -1,6 +1,9 @@
+' **********************************************************************
+' http://www.CodingGears.com
 ' FSO Folders
 ' Recursively display subfolders
-' Assignment Solution
+' Assignment 2 - Solution
+' **********************************************************************
 
 Const  SITE_TITLE = " > > >  CodingGears.io < < <"
 Dim oFolder
